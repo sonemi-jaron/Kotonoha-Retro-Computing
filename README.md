@@ -1,3 +1,10 @@
+(English Summary)<br>
+This repository features source code (BASIC, C, C#, Python) from the YouTube channel "Kotonoha Sisters' Cyber Retro-Future Bureau".
+
+The project mainly focuses on the SHARP Pocket Computer PC-G850 series (especially PC-G850VS). You can find programs for the pocket computer itself, as well as various PC tools and editor plugins developed for my coding workflow.Feel 
+
+free to use and modify them under the MIT License!
+
 ## 💾 【ポケコン】琴葉姉妹の電脳レトロフューチャー局・配布所
 いらっしゃいませ！
 本リポジトリは、YouTubeチャンネル「【ポケコン】琴葉姉妹の電脳レトロフューチャー局」で紹介したプログラムや各種ツールを公開している場所です。
