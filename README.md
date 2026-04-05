@@ -1,5 +1,5 @@
-# 【ポケコン】琴葉姉妹の電脳レトロフューチャー局 - 公式リポジトリ
-# Kotonoha Sisters' Cyber Retro-Future Station - Official Repository
+# 【ポケコン】琴葉姉妹の電脳レトロフューチャー局
+# Kotonoha Sisters' Cyber Retro-Future Station
 
 ---
 
