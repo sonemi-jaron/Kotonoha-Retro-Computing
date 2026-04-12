@@ -19,6 +19,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
 
 - **[BasicVsC](./BasicVsC/)**: 
   - BASIC vs C言語 グラフィック描画速度比較テスト
+- **[BasicVsC2](./BasicVsC2/)**: 
+  - C言語 vs 機械語！限界突破の描画速度を体感せよ
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
