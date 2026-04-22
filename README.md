@@ -23,6 +23,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - C言語 vs 機械語！限界突破の描画速度を体感せよ
 - **[ExtSpeaker](./ExtSpeaker/)**: 
   - 200円のスピーカーでマリオのBEEP演奏に挑戦！
+- **[ExtSpeaker2](./ExtSpeaker2/)**: 
+  - C言語で魔界村！1bit BEEPの限界「3和音」への挑戦
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
