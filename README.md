@@ -17,6 +17,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
 ## 📁 フォルダ構成 / Directory Structure
 動画プロジェクトごとにフォルダを分けて公開しています。
 
+- **[common](./common/)**: 
+  - 共通ツール置き場
 - **[BasicVsC](./BasicVsC/)**: 
   - BASIC vs C言語 グラフィック描画速度比較テスト
 - **[BasicVsC2](./BasicVsC2/)**: 
