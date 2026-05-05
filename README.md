@@ -27,6 +27,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - C言語で魔界村！1bit BEEPの限界「3和音」への挑戦
 - **[ExtSpeaker3](./ExtSpeaker3/)**: 
   - BASIC1ソースでドラクエ序曲！和音・ビープ・ロゴ全部入り計画
+- **[SilverGlide](./SilverGlide/)**: 
+  - 自作STG『SILVER GLIDE』完成
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
