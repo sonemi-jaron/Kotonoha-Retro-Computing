@@ -19,19 +19,19 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
 
 - **[common](./common/)**: 
   - 共通ツール置き場
-- **[BasicVsC](./BasicVsC/)**: 
+- **[001_BasicVsC](./001_BasicVsC/)**: 
   - BASIC vs C言語 グラフィック描画速度比較テスト
-- **[BasicVsC2](./BasicVsC2/)**: 
+- **[002_BasicVsC2](./002_BasicVsC2/)**: 
   - C言語 vs 機械語！限界突破の描画速度を体感せよ
-- **[ExtSpeaker](./ExtSpeaker/)**: 
+- **[003_ExtSpeaker](./003_ExtSpeaker/)**: 
   - 200円のスピーカーでマリオのBEEP演奏に挑戦！
-- **[ExtSpeaker2](./ExtSpeaker2/)**: 
+- **[004_ExtSpeaker2](./004_ExtSpeaker2/)**: 
   - C言語で魔界村！1bit BEEPの限界「3和音」への挑戦
-- **[ExtSpeaker3](./ExtSpeaker3/)**: 
+- **[005_ExtSpeaker3](./005_ExtSpeaker3/)**: 
   - BASIC1ソースでドラクエ序曲！和音・ビープ・ロゴ全部入り計画
-- **[SilverGlide](./SilverGlide/)**: 
+- **[006_SilverGlide](./006_SilverGlide/)**: 
   - 自作STG『SILVER GLIDE』完成
-- **[SilverGlide_C](./SilverGlide_C/)**: 
+- **[007_SilverGlide_C](./007_SilverGlide_C/)**: 
   - C言語で爆速1ドットスクロール！「正攻法」で挑むSILVER GLIDE
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
