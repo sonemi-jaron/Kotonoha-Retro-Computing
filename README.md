@@ -31,6 +31,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - BASIC1ソースでドラクエ序曲！和音・ビープ・ロゴ全部入り計画
 - **[SilverGlide](./SilverGlide/)**: 
   - 自作STG『SILVER GLIDE』完成
+- **[SilverGlide_C](./SilverGlide_C/)**: 
+  - C言語で爆速1ドットスクロール！「正攻法」で挑むSILVER GLIDE
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
