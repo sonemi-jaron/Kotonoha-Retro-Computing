@@ -33,6 +33,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - 自作STG『SILVER GLIDE』完成
 - **[007_SilverGlide_C](./007_SilverGlide_C/)**: 
   - C言語で爆速1ドットスクロール！「正攻法」で挑むSILVER GLIDE
+- **[008_SilverGlide_C2](./008_SilverGlide_C2/)**: 
+  - 実機C言語で敵機襲来！仮想VRAMスプライトと最適化の極意
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
