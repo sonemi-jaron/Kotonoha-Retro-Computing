@@ -37,6 +37,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - 実機C言語で敵機襲来！仮想VRAMスプライトと最適化の極意
 - **[009_SilverGlide_C3](./009_SilverGlide_C3/)**: 
   - C言語×機械語で巨大ボスを動かせ！WH指定スプライトシステムの全貌
+- **[010_SilverGlide_AI](./010_SilverGlide_AI/)**: 
+  - 最新AIに自作STGを丸投げした結果！BASIC仕様の壁と凸凹共同開発
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
