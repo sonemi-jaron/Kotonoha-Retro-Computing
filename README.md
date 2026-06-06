@@ -39,6 +39,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - C言語×機械語で巨大ボスを動かせ！WH指定スプライトシステムの全貌
 - **[010_SilverGlide_AI](./010_SilverGlide_AI/)**: 
   - 最新AIに自作STGを丸投げした結果！BASIC仕様の壁と凸凹共同開発
+- **[011_SilverGlide_AI2](./011_SilverGlide_AI2/)**: 
+  - 最新AIにC言語移植を丸投げした結果！不自由が生み出すゲーム性とWindows版の虚無
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
