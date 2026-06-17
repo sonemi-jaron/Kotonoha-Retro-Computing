@@ -41,6 +41,8 @@ SHARP製ポケットコンピュータを中心に、レトロ技術の検証や
   - 最新AIに自作STGを丸投げした結果！BASIC仕様の壁と凸凹共同開発
 - **[011_SilverGlide_AI2](./011_SilverGlide_AI2/)**: 
   - 最新AIにC言語移植を丸投げした結果！不自由が生み出すゲーム性とWindows版の虚無
+- **[012_ExtSpeaker4](./012_ExtSpeaker4/)**: 
+  - G850の音声をPCマイク端子へ直録するハンダなし回路工作＆グラディウス実機演奏
 
 *(今後、新しい動画のコードを順次追加予定 / More projects coming soon...)*
 
