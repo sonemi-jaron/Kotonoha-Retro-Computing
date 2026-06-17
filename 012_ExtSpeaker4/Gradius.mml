@@ -1,0 +1,61 @@
+:
+: グラディウスFC OP Stage0 Stage1 Boss
+:
+
+: ch 1
+t120 l16
+: -- Intro
+b>dgbg4r2
+: -- Stage0
+e<b>ef+&f+b8f+&f+e8<b>e<b>ef+ e<b>ef+&f+b8f+&f+e8<b>e<b>ef+ e<b>ef+&f+b8f+&f+e8<b>e<b>ef+ e<b>ef+&f+b8f+&f+e8<b>e<b>ef+<
+g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e f+ef+g+&g+a8g+&g+f+8g+f+e&e8& e4&e4c+e-ef+&f+ee-c+
+g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e f+ef+g+&g+a8g+&g+8f+rg+e8&e& e8f+ed4&dedccef+g+&
+g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e g+f+g+b-&b-b8b-&b-g+8f+g+f+g+e f+ef+g+&g+a8g+&g+f+8g+f+e&e8& e2r2
+
+: -- Stage1
+t130 l16
+c+4c+8.f+b8b-8&b-8f+8 >c+8.<ee4&e8c+deab>c+ <f+8.e-&e-8f+8&f+8b8e-ff+g+ a8f+d&da8f+b8g+e&eg+b8
+c+4c+8.f+b8b-8&b-8f+8 >c+8.<ee4&e8c+deab>c+ e-8<f+f+&f+8b8>c+8e-8&e-8<b8 g+8.>c+&c+2.<
+a8.f+&f+8a8&a4f+g+a8 g+8.e&e8c+8&c+2 d+ef+b&b8f+8ff+g+>c+&c+8<g+8 f+g+a>d&d8<a8gab>e&e8f+8&
+f+2f+2<
+
+c+4c+8.f+b8b-8&b-8f+8 >c+8.<ee4&e8c+deab>c+ <f+8.e-&e-8f+8&f+8b8e-ff+g+ a8f+d&da8f+b8g+e&eg+b8
+c+4c+8.f+b8b-8&b-8f+8 >c+8.<ee4&e8c+deab>c+ e-8<f+f+&f+8b8>c+8e-8&e-8<b8 g+8.>c+&c+2.<
+a8.f+&f+8a8&a4f+g+a8 g+8.e&e8c+8&c+2 d+ef+b&b8f+8ff+g+>c+&c+8<g+8 f+g+a>d&d8<a8gab>e&e8f+8&
+f+2f+2< r2
+
+: -- Boss
+t145 l16
+rrrcc+d-dff+gg+ab-b>c<
+[e->e-<b->c<f>e-<b->c<g>e-<b->c<f>e-<b->c <e->e-<b->c<f>e-<b->c<g>e-<b->c<f>e-<b->c ggfgggfgggfgggfg b-b-g+b-b-b-g+b-b-b-g+b-b-b-g+b-<]
+
+,
+: ch 2
+
+t120 l16
+: -- Intro
+dgb>d<b4r2
+: -- Stage0
+b2.&b8br a2.&a8ar g2.&g8gr a2.&a8r8
+<bb>ee<bb>ee<bb>ee<bb>ee <bb>ee<bb>ee<bb>ee<bb>ee <aa>dd<aa>dd<aa>dd<eeaa eeaaeeaaeeaaeeaa
+ bb>ee<bb>ee<bb>ee<bb>ee <bb>ee<bb>ee<bb>ee<bb>ee <aa>dd<aa>dd<aa>dd<gg>cc <gg>cc<ffb-b-ffb-b-e-e-g+g+
+ bb>ee<bb>ee<bb>ee<bb>ee <bb>ee<bb>ee<bb>ee<bb>ee <aa>dd<aa>dd<aa>dd<eeaa eeaaeeaar2
+ 
+: -- Stage1
+t130 l16
+ f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+ <ar>aa<ar>aa<ar>aa<ar>aa <br>bb<br>bb<br>bb<br>bb dr>dd<dr>dd<dr>dd<dr>dd<
+<f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+ <ar>aa<ar>aa<ar>aa<ar>aa <br>bb<br>bb<br>bb<br>bb c+r>c+c+<c+r>c+c+<c+r>c+c+<c+r>c+c+
+<d>d<a>d<d>d<a>d<d>d<a>d<d>d<a>d <<a>aea<a>aea<a>aea<a>aea <b>bf+b<b>bf+bc+>c+<g+>c+<c+>c+<g+>c+ <d>d<a>d<d>d<a>d<e>e<g>e<e>e<g>e
+<f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+<
+
+<f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+ <ar>aa<ar>aa<ar>aa<ar>aa <br>bb<br>bb<br>bb<br>bb dr>dd<dr>dd<dr>dd<dr>dd<
+<f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+ <ar>aa<ar>aa<ar>aa<ar>aa <br>bb<br>bb<br>bb<br>bb c+r>c+c+<c+r>c+c+<c+r>c+c+<c+r>c+c+
+<d>d<a>d<d>d<a>d<d>d<a>d<d>d<a>d <<a>aea<a>aea<a>aea<a>aea <b>bf+b<b>bf+bc+>c+<g+>c+<c+>c+<g+>c+ <d>d<a>d<d>d<a>d<e>e<g>e<e>e<g>e
+<f+r>f+f+<f+r>f+f+<f+r>f+f+<f+r>f+f+< r2
+
+: -- Boss
+t145 l16
+r1
+[e-8re-e-8re-e-8re-e-8re- e-8re-e-8re-e-8re-e-8re- e-8re-e-8re-e-8re-e-8re- e-8re-e-8re-e-8re-e-8re-]
+
+: eof
